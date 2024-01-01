@@ -1,4 +1,4 @@
-![MasterHead](https://static.vecteezy.com/system/resources/thumbnails/000/829/812/small/binary-code-banner.jpg)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm P.Sandiip Anish</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/58kL.gif">
