@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sandiipanish@gmail.com**
 
-- ⚡ Fun fact **I think pineapple doesn't belong on pizza!**
+- ⚡ Fun fact **It’s all 0’s and 1’s**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
